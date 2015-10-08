@@ -22,5 +22,5 @@ Upon launching the application you will be at what is called the "selection" sta
 * Repeat until either you or Zulrah dies. Press R to reset.
 
 # Building
-# C# 6.0
-# .NET 4.5.2
+* C# 6.0
+* .NET 4.5.2
