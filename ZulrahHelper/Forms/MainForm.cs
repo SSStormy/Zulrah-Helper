@@ -104,7 +104,7 @@ namespace ZulrahHelper.Forms
         /// <param name="rot">Zero based current rotation number.</param>
         public void UpdateVisualValues(int rot)
         {
-            curRotationLabel.Text = "Current rotation: " + (rot + 1);
+            curRotationLabel.Text = "Current stage: " + (rot + 1);
         }
 
         /// <summary>
