@@ -7,7 +7,7 @@ namespace ZulrahHelper
     public class RotationData
     {
         /// <summary>
-        ///     Zero based index of the last rotation
+        ///     One based index of the last rotation
         /// </summary>
         public int FinalRotation { get; }
 
